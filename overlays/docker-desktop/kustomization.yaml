@@ -16,10 +16,10 @@ patches:
 images:
   - name: ritik799/ai-task-processing-platform-frontend
     newName: ritik799/ai-task-processing-platform-frontend
-    newTag: 90f8502
+    newTag: 3f37d15
   - name: ritik799/ai-task-processing-platform-backend
     newName: ritik799/ai-task-processing-platform-backend
-    newTag: 90f8502
+    newTag: 3f37d15
   - name: ritik799/ai-task-processing-platform-worker
     newName: ritik799/ai-task-processing-platform-worker
-    newTag: 90f8502
+    newTag: 3f37d15
